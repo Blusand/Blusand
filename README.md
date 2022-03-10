@@ -6,7 +6,7 @@
 [![Blusand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blusand&show_icons=true&bg_color=0,7FFFAA,E1FFFF,FFFFF0&theme=graywhite&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://dragcave.net/view/uMaX2"><img src="https://dragcave.net/image/uMaX2.gif" style="border-width:0" alt="Adopt one today!"/></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blusand&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blusand&count_private=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://dragcave.net/view/4S4Ef"><img src="https://dragcave.net/image/4S4Ef.gif" style="border-width:0" alt="Adopt one today!"/></a>
 
 <!--
